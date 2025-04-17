@@ -9,7 +9,7 @@ Interested in Frontend and Full Stack development.
 
 #### Technologies and Interests
 
-- JavaScript, React, PHP, C++, HTML, CSS, jQuery, Magento 2.
+- JavaScript, React, PHP, C++, HTML, CSS, jQuery, Magento 2, Shopify.
 - MySQL, Nginx
 - Git, Github, GitLab
 - Linux, Windows
